@@ -1,1 +1,10 @@
 1) Bytecode -  Highly optimized set of instructions,compiled code to be executed in JVM. Achieves portability and security
+2) Polymorphism (quality that allows access to different class of type/actions; 
+Inheritance (object/class based on another object/class, using the same implementation);
+Encapsulation (packing data and functions into one component)
+3) Java programs execute from the call main()
+4) Variable = named allocation of memory - this can be manipulated and changed during the execution of a program
+5)  d) (67count) is invalid, cannot begin with a digit
+6) // single line comment
+  /* Multiple lines and then */
+7)
