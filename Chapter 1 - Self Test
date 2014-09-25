@@ -9,3 +9,5 @@ Encapsulation (packing data and functions into one component)
   /* Multiple lines and then */
 7) if(initilisation;condition;iteration) statement;
 8) indent and {}
+11) A typing mistake would lead to a syntax error
+12) Java is a free form
