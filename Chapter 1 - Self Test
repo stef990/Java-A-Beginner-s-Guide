@@ -7,4 +7,5 @@ Encapsulation (packing data and functions into one component)
 5)  d) (67count) is invalid, cannot begin with a digit
 6) // single line comment
   /* Multiple lines and then */
-7)
+7) if(initilisation;condition;iteration) statement;
+8) indent and {}
