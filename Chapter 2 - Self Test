@@ -1,0 +1,4 @@
+1) Java specifies range for primitive tyeps because of portability
+2)Java uses unicode for its character type char, unassigned 16 bit (ASCII is used by other languages)
+3) false, boolean must be either true or false
+4) System.out.println("One\nTwo\nThree");
