@@ -2,3 +2,10 @@
 2)Java uses unicode for its character type char, unassigned 16 bit (ASCII is used by other languages)
 3) false, boolean must be either true or false
 4) System.out.println("One\nTwo\nThree");
+5)The sum variable is constructed and disconstructed at the start and end of the loop.Sum is not a globally declared
+variable (local)
+6) IF the operator precedes the operand, the increment is done prior to assignment. IF operator procedes operand, operand is assigned, and then incremented.
+7) if (a != 0 && (b%a)== 0);
+8) Byte and short are promoted to int
+9)a cast is needed when converting between incompatible types or when a narrowing conversion is occruing
+10)
