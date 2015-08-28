@@ -1,0 +1,50 @@
+/*
+// Q1 See CountSpaces.java
+
+// Q2
+/* if(condition)
+      statement;
+    else if(condtion)
+      statement
+      .
+      .
+      else
+        statement
+        
+        */
+        
+        
+//Q3 
+The last else associates with the second if ( >100)
+
+// Q4
+for (int i  = 1000; i >= 0; i-=2)
+
+//Q5
+i is not known outside the loop of which it is declared
+
+//Q6
+A break without a label causes the termination of its immediately enclosing loop or switch statement
+A break with a a label causes control to transfer to the end of the labeled block
+
+//Q7
+After while is displayed
+
+//Q8
+
+0 1
+2 3
+etc..
+
+The continue works by interating the next step, and THEN executing ALL the statements in the for loop
+
+Q 9 + 10
+See separate programs
+
+Q11
+Loop that does not terminate automatically
+
+Q12
+When using break with a label, must the label be on ta block that contains the break
+Yes
+*/
