@@ -1,0 +1,29 @@
+Chapter 4 Self Test
+
+1. What is difference between class and object
+A class is a logical abstraction that describes the form and behaviour of an object. An object is a a physical instance of the class.
+
+2. How is a class defined?
+A class is defined by using the keyword class. Inside the statement you specify the code and data that comprise the class.
+
+3. What does each have its own copy of?
+Each object of a class has its own copy of the class' instance variables
+
+4. Declare an object called counter of a class called MyCounter
+counter = new MyCounter()
+
+5. 
+
+6.How must a meothod return its it returns a value
+A method that returns a value must return via the return statement, passing back the return value in the process
+
+7.A constructor has the same name as its class
+
+8. THe new operator allocates memory for an object and initializes it using the object's constructor
+
+9. wHAT is GC 
+GC is mechanism that recycles unused  objects so that their memory can be reused. AN objects finalize() method is called just prior to an obejct being recycled
+
+10. The this keyword is a reference to the objecft on which a method is invoked.
+
+12
